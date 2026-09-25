@@ -1,0 +1,20 @@
+title: Mandar Sawant
+description: Things I had to understand the hard way.
+url: "https://mssawant.github.io"
+baseurl: ""
+permalink: /:title/
+
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+minima:
+  skin: classic
+
+author:
+  name: Mandar Sawant
+
+exclude:
+  - README.md
+  - "*.docx"
